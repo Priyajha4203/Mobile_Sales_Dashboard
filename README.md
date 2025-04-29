@@ -26,3 +26,9 @@ This repository contains a Power BI dashboard named **Mobile Sales Report**, des
 ## 📸 Screenshot 
 ![image](https://github.com/user-attachments/assets/735cca83-f695-411b-b270-859756c24a8f)
 
+![image](https://github.com/user-attachments/assets/0346fe46-5012-453e-9fe4-97841362fc49)
+
+![image](https://github.com/user-attachments/assets/73b946de-4509-43e6-a7d6-ecb3cbe2e626)
+
+
+
