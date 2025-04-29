@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard named **Mobile Sales Report**, des
 - 🛍️ **Category Insights**: Performance comparison among product categories.
   
 - 💹 **KPI Visuals**: Key metrics like total revenue, units sold, and profit margins.
-- 
+  
 
 ## 🛠️ How to Use
 
